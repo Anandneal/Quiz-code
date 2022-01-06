@@ -3,6 +3,11 @@
 
  when entered you are submitted to the first page
 
-![image](https://user-images.githubusercontent.com/95049535/148313982-d0a6d151-8f5f-4990-942f-65c0f53c101d.png)
+![Screen Shot 2022-01-05 at 8 18 31 PM](https://user-images.githubusercontent.com/95049535/148314269-d011674e-5f0d-459b-b09e-f9500a9858b5.png)
 
 when the quiz starts you can see the timer in the top right corner.
+
+
+<img width="862" alt="Screen Shot 2022-01-05 at 8 41 03 PM" src="https://user-images.githubusercontent.com/95049535/148314369-42f8c657-704d-4cb1-a04f-a0c8279b6a82.png">
+
+when finshed you are able to enter your intials to submit to the highscores!
